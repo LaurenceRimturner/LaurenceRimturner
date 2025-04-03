@@ -1,3 +1,8 @@
+<!-- Banner einfügen -->
+<p align="center">
+  <img src="public/LinkedIn-Banner-Blue.jpg" alt="Banner"/>
+</p
+
 ```javascript
 const introduction = {
   name: ["Laurin", "Laurent", "Laurence", "Lorem"],
