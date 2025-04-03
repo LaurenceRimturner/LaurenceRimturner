@@ -1,45 +1,39 @@
-# 👋 Moinsen, ich bin Laurin!
+```javascript
+const introduction = {
+  name: ["Laurin", "Laurent", "Laurence", "Lorem"],
+  title: "Junior Front-End Developer & Mediengestalter",
+  location: "Berlin",
+  about: {
+    education: "Ausbildung zum Mediengestalter Digital",
+    passion: "Design & Entwicklung",
+    funFact: "Leidenschaftlicher Zocker – Design und Gaming sind für mich einfach Kreativität und Struktur. 🎮🎨",
+    mindset: "Lernbereit & neugierig – Immer auf der Suche nach neuen Technologien & Best Practices!"
+  },
+  skills: {
+    frontend: ["HTML", "CSS", "JavaScript"],
+    cms: ["WordPress", "Webflow"],
+    design: ["Responsive Design", "Microanimations"],
+    tools: ["GitHub", "VS Code"],
+    additional: ["Adobe Produkte", "SEO & Marketing-Grundwissen"]
+  },
+  portfolio: {
+    link: "in Progress",
+    description: "Meine Qualitäten auf einem Blick"
+  },
+  contact: {
+    linkedin: "https://www.linkedin.com/in/laurin-felgendreher-ab8495256/"
+  },
+  motivation: [
+    "Ich liebe es, gute Designs in funktionalen Code zu verwandeln.",
+    "Ich bin lernbereit & motiviert, neue Technologien zu meistern.",
+    "Ich glaube an gutes UI/UX-Design, das nicht nur schön aussieht, sondern auch funktioniert."
+  ]
+};
 
-🚀 **Junior Front-End Developer & Mediadesigner** | 🎨 **Kreativer Kopf mit einem Faible für Design & Code** | 📍 **Berlin**  
+console.log(introduction);
 
-## 🌟 Über mich  
-🎓 **WLS Neumünster** – Design & Entwicklung sind meine Welt!  
-💡 **Leidenschaft für Webentwicklung & UX/UI** – Ich liebe es, kreative Designs mit sauberem Code zu verbinden.  
-🎵 **Fun Fact:** Ich erstelle eigene Spotify-Playlists, um in den Flow zu kommen. 🎶  
-🧠 **Lernbereit & neugierig** – Immer auf der Suche nach neuen Technologien & Best Practices!  
-
-## 🛠️ Skills & Technologien  
-**👨‍💻 Frontend & Webdesign**  
-- HTML, CSS, JavaScript  
-- WordPress & Webflow  
-- Responsive Design & Microanimations  
-
-**🎨 Design & Kreativität**  
-- Adobe Creative Suite (Photoshop, Illustrator, XD, After Effects)  
-- Figma für UI/UX-Design  
-
-**🛠️ Tools & Technologien**  
-- GitHub, VS Code  
-- SQL-Grundlagen  
-- SEO & Marketing-Grundwissen  
-
-## 🚀 Projekte & Portfolio  
-📌 **[Mein Portfolio](#)** – Hier findest du meine besten Arbeiten!  
-
-## 📩 Let’s Connect!  
-💼 **[LinkedIn]([https://linkedin.com/in/deinname](https://www.linkedin.com/in/laurin-felgendreher-ab8495256/))**
-
-
-## 🎯 Was mich antreibt  
-✅ Ich liebe es, **gute Designs in funktionalen Code** zu verwandeln.  
-✅ Ich bin **lernbereit & motiviert**, neue Technologien zu meistern.  
-✅ Ich glaube an **gutes UI/UX-Design**, das nicht nur schön aussieht, sondern auch funktioniert.  
-
-
----
-
-### 🔥 Badges für deine Skills
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
+```
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  <br>
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)  
