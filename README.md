@@ -22,7 +22,7 @@ const introduction = {
     additional: ["Adobe Produkte", "SEO & Marketing-Grundwissen"]
   },
   portfolio: {
-    link: "in Progress",
+    link: "IN PROGRESS",
     description: "Meine Qualitäten auf einem Blick"
   },
   contact: {
