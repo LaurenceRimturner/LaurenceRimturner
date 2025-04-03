@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Moinsen, ich bin Laurin
+🎯 Junior Front-End Dev & Mediadesigner | 🚀 Open Source Enthusiast | 📍 Berlin
 
-<!--
-**LaurenceRimturner/LaurenceRimturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Über mich
+- 🎓 WLS Neumünster
+- 💼 **Mediadesigner & Junior Creative**
+- 💡 Interesse an **Webentwicklung, Frontend, Design**
+- 🎵 Fun Fact: Ich erstelle eigene Spotify-Playlists 🎶  
 
-Here are some ideas to get you started:
+## 📌 Skills & Technologien
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Tools:** VS Code, GitHub, Figma, XD und Adobe
+- **Sonstiges:** Responsive Design, SEO, Performance, Microanimations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
