@@ -39,11 +39,9 @@
 ---
 
 ### 🔥 Badges für deine Skills
-<div style="display:flex; flex-direction:column">
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)  
 ![Webflow](https://img.shields.io/badge/-Webflow-purple?style=flat&logo=webflow)  
 ![Adobe](https://img.shields.io/badge/-Adobe-red?style=flat&logo=adobe)
-</div>
