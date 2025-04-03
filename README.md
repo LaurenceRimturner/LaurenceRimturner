@@ -1,7 +1,6 @@
-<!-- Banner einfügen -->
-<p align="center">
+<div align="center">
   <img src="Github-banner.jpg" alt="Banner"/>
-</p
+</div>
 
 ```javascript
 const introduction = {
@@ -36,6 +35,7 @@ const introduction = {
 };
 
 console.log(introduction);
+
 
 ```
 <p>
