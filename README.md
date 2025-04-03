@@ -1,6 +1,6 @@
 <!-- Banner einfügen -->
 <p align="center">
-  <img src="public/LinkedIn-Banner-Blue.jpg" alt="Banner"/>
+  <img src="GitHub-banner.jpg" alt="Banner"/>
 </p
 
 ```javascript
