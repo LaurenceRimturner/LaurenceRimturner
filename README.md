@@ -1,9 +1,6 @@
 # 👋 Moinsen, ich bin Laurin!  
 🚀 **Junior Front-End Developer & Mediadesigner** | 🎨 **Kreativer Kopf mit einem Faible für Design & Code** | 📍 **Berlin**  
 
-## 📸 Screenshot
-![Portfolio Vorschau](https://via.placeholder.com/800x400)  
-
 ## 🌟 Über mich  
 🎓 **WLS Neumünster** – Design & Entwicklung sind meine Welt!  
 💡 **Leidenschaft für Webentwicklung & UX/UI** – Ich liebe es, kreative Designs mit sauberem Code zu verbinden.  
@@ -26,8 +23,11 @@
 - SEO & Marketing-Grundwissen  
 
 ## 🚀 Projekte & Portfolio  
-📌 **[Mein Portfolio](https://deine-seite.com)** – Hier findest du meine besten Arbeiten!  
-📌 **[Spannendes Projekt #1](https://github.com/deinrepo)** – Kurzbeschreibung mit Highlights  
+📌 **[Mein Portfolio](#)** – Hier findest du meine besten Arbeiten!  
+
+## 📩 Let’s Connect!  
+💼 **[LinkedIn]([https://linkedin.com/in/deinname](https://www.linkedin.com/in/laurin-felgendreher-ab8495256/))**
+
 
 ## 🎯 Was mich antreibt  
 ✅ Ich liebe es, **gute Designs in funktionalen Code** zu verwandeln.  
