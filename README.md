@@ -1,6 +1,6 @@
 <!-- Banner einfügen -->
 <p align="center">
-  <img src="GitHub-banner.jpg" alt="Banner"/>
+  <img src="Github-banner.jpg" alt="Banner"/>
 </p
 
 ```javascript
