@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Github-banner.jpg" alt="Banner"/>
+  <img src="Github-banner.jpg" alt="GitHub-Banner"/>
 </div>
 
 ```javascript
