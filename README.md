@@ -10,15 +10,14 @@ const introduction = {
   about: {
     education: "Ausbildung zum Mediengestalter Digital",
     passion: "Design & Entwicklung",
-    funFact: "Leidenschaftlicher Zocker – Design und Gaming sind für mich einfach Kreativität und Struktur. 🎮🎨",
-    mindset: "Lernbereit & neugierig – Immer auf der Suche nach neuen Technologien & Best Practices!"
+    funFact: "Passionierter Gamer – In Games finde ich oft die besten Design-Ideen.",
+    mindset: "Den Nutzer auf eine digitale und interaktive Entdeckungsreise nehmen"
   },
   skills: {
     frontend: ["HTML", "CSS", "JavaScript"],
     cms: ["WordPress", "Webflow"],
     design: ["Responsive Design", "Microanimations"],
-    tools: ["GitHub", "VS Code"],
-    additional: ["Adobe Produkte", "SEO & Marketing-Grundwissen"]
+    tools: ["GitHub", "VS Code", "Adobe Produkte"]
   },
   portfolio: {
     link: "IN PROGRESS",
@@ -30,7 +29,7 @@ const introduction = {
   motivation: [
     "Ich liebe es, gute Designs in funktionalen Code zu verwandeln.",
     "Lernbereit & motiviert, neue Technologien zu meistern.",
-    "Durchdachtes UI/UX-Design, das nicht nur schön aussieht, sondern auch funktioniert."
+    "Usability, ansprechende Ästhetik und technologische Innovation im Mittelpunkt."
   ]
 };
 
