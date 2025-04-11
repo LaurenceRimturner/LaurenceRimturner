@@ -29,8 +29,8 @@ const introduction = {
   },
   motivation: [
     "Ich liebe es, gute Designs in funktionalen Code zu verwandeln.",
-    "Ich bin lernbereit & motiviert, neue Technologien zu meistern.",
-    "Ich glaube an gutes UI/UX-Design, das nicht nur schön aussieht, sondern auch funktioniert."
+    "Lernbereit & motiviert, neue Technologien zu meistern.",
+    "Durchdachtes UI/UX-Design, das nicht nur schön aussieht, sondern auch funktioniert."
   ]
 };
 
