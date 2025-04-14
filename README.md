@@ -6,7 +6,7 @@
 const introduction = {
   name: ["Laurin", "Laurent", "Laurence", "Lorem"],
   title: "Junior Front-End Developer & Mediengestalter",
-  location: "Berlin",
+  location: "Currently in Berlin",
   about: {
     education: "Ausbildung zum Mediengestalter Digital",
     passion: "Design & Entwicklung",
