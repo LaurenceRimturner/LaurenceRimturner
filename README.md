@@ -1,6 +1,6 @@
 <div align="center">
   <img src="Github-banner.jpg" alt="GitHub-Banner"/>
-  <h3>Über mich ✌🏼</h3>
+  <h2>Über mich ✌🏼</h2>
 </div>
 
 ```javascript
