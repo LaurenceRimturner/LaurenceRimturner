@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img src="Github-banner.jpg" alt="GitHub-Banner"/>
   <h2>Über mich ✌🏼✌🏼</h2>
 </div>
