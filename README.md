@@ -21,7 +21,7 @@ const introduction = {
     tools: ["GitHub", "VS Code", "Adobe Produkte"]
   },
   portfolio: {
-    link: "IN PROGRESS",
+    link: https://laurencerimturner.github.io/,
     description: "Meine Qualitäten auf einem Blick"
   },
   contact: {
