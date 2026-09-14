@@ -5,7 +5,7 @@
 
 ```javascript
 const introduction = {
-  name: ["Laurin", "Laurent", "Laurence", "Lorem"],
+  name: ["Laureen", "Laurent", "Laurence", "Lorem"],
   title: "Junior Front-End Developer & Mediengestalter",
   location: "Currently in Berlin",
   about: {
