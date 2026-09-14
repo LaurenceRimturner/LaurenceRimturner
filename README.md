@@ -25,7 +25,7 @@ const introduction = {
     description: "Meine Qualitäten auf einem Blick"
   },
   contact: {
-    linkedin: "https://www.linkedin.com/in/laurin-felgendreher-ab8495256/"
+    linkedin: "TBA"
   },
   motivation: [
     "Ich liebe es, gute Designs in funktionalen Code zu verwandeln.",
