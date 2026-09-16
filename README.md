@@ -1,36 +1,40 @@
 <div align="left">
-  <img src="Github-banner.jpg" alt="GitHub-Banner"/>
-  <h1>Moinsen ✌🏼✌🏼</h1>
+<img src="Github-banner.jpg" alt="GitHub-Banner"/>
+</div>
+<div>
+  <h1>Schön, dass du hier gelandet bist (❁´◡`❁)</h1>
+  <h3>Ich bin Laureen und als Junior Frontend Developer unterwegs, <br>um die Welt zu einem besseren Ort zu machen.</h3>
+  <p><i>Denn meine Mama sagt schon immer "Probleme sind da, um gelöst zu werden".</i></p>
 </div>
 
 ```javascript
 const introduction = {
-  name: ["Laureen", "Laurent", "Laurence", "Lorem"],
-  title: "Junior Front-End Developer & Mediengestalter",
-  location: "Currently in Berlin",
+  name: ["Laureen", "Laurence"],
+  title: "Qualified media designer & self-taught junior front-end programmer",
+  location: "Currently based in Berlin",
   about: {
-    education: "Ausbildung zum Mediengestalter Digital",
-    passion: "Design & Entwicklung",
-    funFact: "Passionierter Gamer – In Games finde ich oft die besten Design-Ideen.",
-    mindset: "Den Nutzer auf eine digitale und interaktive Entdeckungsreise nehmen"
+    education: "Apprenticeship: Media Design",
+    passion: "Design & coding",
+    funFact: "Passionate gamer",
+    mindset: "»Take the user on a digital and interactive journey of discovery«"
   },
   skills: {
-    frontend: ["HTML", "CSS", "JavaScript"],
+    frontend: ["HTML", "CSS", "JavaScript", "Vue.js", "GSAP"],
     cms: ["WordPress", "Webflow"],
-    design: ["Responsive Design", "Microanimations"],
-    tools: ["GitHub", "VS Code", "Adobe Produkte"]
+    design: ["Clean professional designs", "Responsive design", "Microanimations"],
+    tools: ["GitHub", "VS Code", "Adobe products"]
   },
   portfolio: {
     link: "https://vue-portfolio-neon-mu.vercel.app/",
-    description: "Meine Qualitäten auf einem Blick"
+    description: "Where my skills come to life"
   },
   contact: {
     linkedin: "TBA"
   },
   motivation: [
-    "Ich liebe es, gute Designs in funktionalen Code zu verwandeln.",
-    "Lernbereit & motiviert, neue Technologien zu meistern.",
-    "Usability, ansprechende Ästhetik und technologische Innovation im Mittelpunkt."
+    "»I love turning appealing designs into functional code.«",
+    "»Eager to learn and motivated to master new technologies.«",
+    "»Focus on usability, appealing aesthetics and technological innovation.«"
   ]
 };
 
