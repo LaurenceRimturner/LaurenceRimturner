@@ -43,10 +43,16 @@ console.log(introduction);
 
 ```
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" alt="CSS"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstraps"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="vue"/>
+  <img style="height: 20px;" src="https://img.shields.io/badge/GSAP-0AE448?logo=gsap&logoColor=000&style=for-the-badge" alt="gsap"/>
   <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress" alt="WordPress"/>
   <img src="https://img.shields.io/badge/-Webflow-purple?style=flat&logo=webflow" alt="Webflow"/>
   <img src="https://img.shields.io/badge/-Adobe-red?style=flat&logo=adobe" alt="Adobe"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="steam"/>
 </p>
