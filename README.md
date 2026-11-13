@@ -29,7 +29,7 @@ const introduction = {
     description: "Where my skills come to life"
   },
   contact: {
-    linkedin: "TBA"
+    linkedin: "https://www.linkedin.com/in/laureen-felgendreher/"
   },
   motivation: [
     "»I love turning appealing designs into functional code.«",
